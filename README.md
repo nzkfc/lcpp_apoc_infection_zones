@@ -8,6 +8,8 @@ Here's a well-structured `README.md` file for your GitHub project:
 `lcpp_apoc_infection_zones` adds configurable infection zones around the LCPP map to prevent players from leaving Manhattan island. This resource is designed to work exclusively with the **LCPP APOC Map**:  
 🔗 [LCPP APOC Map](https://github.com/nzkfc/lcpp_apoc_map)  
 
+[![Watch the video](https://img.youtube.com/vi/ptKOp7D1V-Q/0.jpg)](https://youtu.be/ptKOp7D1V-Q)
+
 ## Dependencies  
 Ensure you have the following dependencies installed:  
 - [Interact Sound](https://github.com/plunkettscott/interact-sound)  
