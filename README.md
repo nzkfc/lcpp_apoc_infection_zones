@@ -22,8 +22,12 @@ Ensure you have the following dependencies installed:
 ## Configuration  
 The default configuration is set for use with the **LCPP APOC Map**. If needed, you can modify the settings in the config file to suit your requirements.
 
-## License  
-This project/script is licensed under the **GNU General Public License v3.0** (GPL-3.0).
-
 ## Support  
 For any issues or feature requests, please open a GitHub issue.  
+
+## License & Attribution
+- **License:** [GNU GPL v3](LICENSE)
+- **Author:** nzkfc(https://github.com/nzkfc)
+- **Attribution Requirement:** Any use, modification, or distribution must provide credit as stated in the license.
+
+For more details, check the full [GPL v3 license](https://www.gnu.org/licenses/gpl-3.0.html).
